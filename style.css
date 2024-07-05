@@ -1,0 +1,29 @@
+    background{
+        background-image: radial-gradient();
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: aqua;
+    }
+    table,th,td{
+        border: 10px solid blueviolet;
+        border-style: outset;
+        border-color: rgb(0, 47, 255);
+        border-collapse: collapse;
+        table-layout: fixed;
+        tab-size: 20px;
+    }
+    img {
+        width: 200px;
+        height: 200px;
+        border-radius: 200px;
+    }
+    h1{
+    color: blue;
+    }
+    p1{
+        color: aqua;
+        font-size: medium;
+        font-family: serif;
+        font-weight: 100;
+        font-style: oblique;
+    }
